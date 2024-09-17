@@ -65,7 +65,7 @@ Lista de comandos Linux y Estructura de Directorios para practicar
 
     -   Muestra el directorio actual.
 3.  ls (Listar contenido de directorio):
-
+    -   Ir al directorio principal
     -   Lista todos los archivos y directorios en el directorio actual.
     -   Utiliza opciones para mostrar archivos ocultos.
     -   Lista solo archivos o solo directorios en el directorio actual.
